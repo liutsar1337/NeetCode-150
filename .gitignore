@@ -1,0 +1,19 @@
+# Compiled output
+/dist
+/tmp
+
+# Dependency directories
+node_modules/
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# OS Files
+.DS_Store
+Thumbs.db
