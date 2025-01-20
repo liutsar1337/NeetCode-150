@@ -1,6 +1,6 @@
 # NeetCode-150 (In Progress)
 
-This repository contains my solutions to the **NeetCode 150** problems list, aimed at learning data structures and
+This repository contains my solutions to the [**NeetCode 150**](https://neetcode.io/practice?tab=neetcode150) problems list, aimed at learning data structures and
 algorithms for software engineer interview preparation.
 
 ## 📁 Repository Structure
